@@ -206,6 +206,7 @@ public class FileInfo implements Serializable, Comparable<FileInfo>
         VUE("Vue.js", "vue", "vue"),
         XML("XML", "xml", "xml", "cxml", "fxml"),
         YAML("YAML", "yaml", "yaml", "yml"),
+        SASS("SASS", "sass", "scss"),
 
         UNKNOWN("Unknown file type", "unknown")
                 {
